@@ -1,6 +1,6 @@
 import unittest
 from parameterized import parameterized
-from Teme.tema_ses8 import aria_cercului, diametru, circumferinta, Angajat, Cont, Patrat, Dreptunghi, Cerc
+from Teme.teme_ses8 import aria_cercului, diametru, circumferinta, Angajat, Cont, Patrat, Dreptunghi, Cerc
 import pytest
 
 # 1
